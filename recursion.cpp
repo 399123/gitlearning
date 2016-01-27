@@ -3,3 +3,4 @@ int main(argv[] argc[]){
 		return infinite();
 	}
 }
+main();
