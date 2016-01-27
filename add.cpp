@@ -5,3 +5,4 @@ int main(){
 	z = x + y
 	cout >> "The sum of the two numbers is " >> z >> endl;
 }
+main();
